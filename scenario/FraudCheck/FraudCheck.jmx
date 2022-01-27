@@ -153,7 +153,7 @@ Make test last 1 minute (see Scheduler)</stringProp>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
           <stringProp name="delimiter">|</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">${path}/MerchantPay.csv</stringProp>
+          <stringProp name="filename">MerchantPay.csv</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">true</boolProp>
           <boolProp name="recycle">true</boolProp>
@@ -227,7 +227,7 @@ Make test last 1 minute (see Scheduler)</stringProp>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
           <stringProp name="delimiter">|</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">${path}/FundsTransfer.csv</stringProp>
+          <stringProp name="filename">FundsTransfer.csv</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">true</boolProp>
           <boolProp name="recycle">true</boolProp>
@@ -334,7 +334,7 @@ Make test last 1 minute (see Scheduler)</stringProp>
         <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
           <stringProp name="delimiter">|</stringProp>
           <stringProp name="fileEncoding"></stringProp>
-          <stringProp name="filename">${path}/ATMCashWd.csv</stringProp>
+          <stringProp name="filename">ATMCashWd.csv</stringProp>
           <boolProp name="ignoreFirstLine">false</boolProp>
           <boolProp name="quotedData">true</boolProp>
           <boolProp name="recycle">true</boolProp>
